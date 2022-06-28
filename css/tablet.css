@@ -1,0 +1,124 @@
+@media screen and (max-device-width: 1024px) {
+    main,
+    header {
+        margin: 0px;
+        padding: 0px 16px 0px 16px;
+    }
+    main {
+        margin: 0px 0 30px 0;
+    }
+    .block-mg {
+        display: block;
+    }
+    .column-reverse-mg {
+        flex-direction: column-reverse;
+    }
+    .justify-end-mg {
+        justify-content: end;
+    }
+    .font-smaller-mg {
+        font-size: smaller;
+    }
+    .font-large-mg {
+        font-size: large;
+    }
+    .font-small-mg {
+        font-size: small;
+    }
+    .font-x-small-mg {
+        font-size: x-small;
+    }
+    .p-4-5 {
+        padding: 2.5px;
+    }
+    .pl-26 {
+        padding-left: 26px;
+    }
+    .m-y-30 {
+        margin: 16px 0;
+    }
+    .card-container-left {
+        width: 97%;
+        border-radius: 20px;
+    }
+    .m-32 {
+        margin-top: 32px;
+    }
+    .p-container {
+        padding: 20px 14px 0 14px;
+    }
+    .w-239 {
+        width: 207px;
+    }
+    .menu {
+        width: 26%;
+    }
+    .menu a {
+        padding: 35px 0 0 0;
+    }
+    .logo {
+        width: 12%;
+        padding: 24px 27px 0 0px;
+        margin: 16px 0px 5px 15px;
+    }
+    .font-initial {
+        font-size: initial;
+    }
+    .filter {
+        width: 100%;
+    }
+    .accommodation {
+        height: 82px;
+        width: 100%;
+    }
+    .accommodation-right {
+        width: 124px;
+        height: 118px;
+    }
+    .w-85 {
+        width: 94%;
+    }
+    .title-description-right {
+        margin: 11px 0px 11px 0;
+    }
+    .img-activity-first {
+        height: 312px;
+    }
+    .h-40 {
+        height: 34%;
+    }
+    .m-b-30 {
+        margin-bottom: 12px;
+    }
+    .h-50 {
+        height: 63% !important;
+    }
+    .w-45 {
+        width: 47%;
+    }
+    .m-t-63 {
+        margin-top: 50px;
+        font-size: large;
+    }
+    .font-size-66 {
+        font-size: 66%;
+    }
+    .element:nth-child(1) img {
+        height: 179px;
+    }
+    .h-174-mg {
+        height: 127px;
+    }
+    .h-47 {
+        height: 48%;
+    }
+    .p-t-50 {
+        padding: 17px 120px 50px 50px;
+    }
+    .exclamation {
+        padding: 5px 9px;
+    }
+    .card-container-right {
+        width: 97%;
+    }
+}
