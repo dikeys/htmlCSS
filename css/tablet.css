@@ -103,14 +103,26 @@
     .font-size-66 {
         font-size: 66%;
     }
-    .element:nth-child(1) img {
-        height: 179px;
-    }
     .h-174-mg {
         height: 127px;
     }
     .h-47 {
         height: 48%;
+    }
+    .h-85-m {
+        height: 82%;
+    }
+    .h-63-m {
+        height: 63%;
+    }
+    .h-72-m {
+        height: 72%;
+    }
+    .h-90 {
+        height: 90%;
+    }
+    .h-43 {
+        height: 43%;
     }
     .p-t-50 {
         padding: 17px 120px 50px 50px;
@@ -120,5 +132,8 @@
     }
     .card-container-right {
         width: 97%;
+    }
+    .w-full-mg {
+        width: 100%;
     }
 }

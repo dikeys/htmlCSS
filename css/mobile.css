@@ -52,8 +52,8 @@
     }
     .logo {
         text-align: center;
-        width: 85%;
-        margin: 16px;
+        width: 100%;
+        margin: 16px 0;
         padding: 0;
     }
     .menu {
@@ -115,8 +115,8 @@
         border-radius: 0;
     }
     .accommodation-right {
-        width: 128px;
-        height: 137px;
+        width: 147px;
+        height: 155px;
     }
     .p-5-s {
         padding: 5px;
@@ -134,10 +134,16 @@
         padding: 0px;
     }
     .w-239 {
-        width: 85%;
+        width: 96%;
     }
     .w-85 {
         width: 85%;
+    }
+    .w-85-s {
+        width: 85%;
+    }
+    .w-97 {
+        width: 97%;
     }
     .accommodation {
         height: 109px;

@@ -211,6 +211,10 @@ button:hover {
     padding: 50px 430px 50px 50px;
 }
 
+.py-16 {
+    padding: 0px 16px;
+}
+
 
 /* border */
 
@@ -313,6 +317,14 @@ button:hover {
     width: 85%;
 }
 
+.w-93 {
+    width: 93%;
+}
+
+.h-full {
+    height: 100%;
+}
+
 .w-full {
     width: 100%;
 }
@@ -334,6 +346,14 @@ button:hover {
 
 .h-50 {
     height: 50%;
+}
+
+.h-53 {
+    height: 53%;
+}
+
+.h-full {
+    height: 100%;
 }
 
 .h-40 {
@@ -431,13 +451,13 @@ button:hover {
 
 .img-activity-first {
     width: 100%;
-    height: 427px;
+    height: 447px;
     object-fit: cover;
 }
 
 .img-activity-secondary {
     width: 100%;
-    height: 181px;
+    height: 215px;
     object-fit: cover;
 }
 
@@ -447,13 +467,14 @@ button:hover {
     object-fit: cover;
 }
 
-.element:nth-child(1) {
+
+/* .element:nth-child(1) {
     height: 53%;
 }
 
 .element:nth-child(1) img {
-    height: 200px;
-}
+    height: 207px;
+} */
 
 .h-174 {
     height: 174px;
